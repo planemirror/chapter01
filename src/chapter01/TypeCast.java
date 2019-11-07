@@ -10,8 +10,7 @@ public class TypeCast {
 		System.out.println( i + ":" +l );
 		
 		// explicity(명시적) Type Cast
-		long l2 = 123456789L;
-		int i2 = (int)l2;
+		long l2 = 10L;
+		//int i2 = (int)l2;
 	}
-
 }
