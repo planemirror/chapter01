@@ -2,7 +2,7 @@ package chapter01;
 
 import java.util.Scanner;
 
-public class Prob1 {
+public class Prob01 {
 
 	public static void main(String[] args) {
 		

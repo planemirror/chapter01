@@ -1,6 +1,6 @@
 package chapter01;
 
-public class TypeCast2 {
+public class TypeCast02 {
 
 	public static void main(String[] args) {
 		byte b;

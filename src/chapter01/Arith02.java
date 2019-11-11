@@ -1,6 +1,6 @@
 package chapter01;
 
-public class Arith2 {
+public class Arith02 {
 
 	public static void main(String[] args) {
 		int n = 1;

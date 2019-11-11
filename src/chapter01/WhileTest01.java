@@ -1,6 +1,6 @@
 package chapter01;
 
-public class WhileTest {
+public class WhileTest01 {
 
 	public static void main(String[] args) {
 		
